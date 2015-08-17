@@ -3,7 +3,7 @@
 # -*- Mode: Python; py-indent-offset: 4 -*-
 # vim: tabstop=4 shiftwidth=4 expandtab
 """
-    A die roller.
+    Legend of the Adonatar
     Copyright (C) 2013  Ronaldo Nascimento <ronaldo1@users.sf.net>
 
     This program is free software: you can redistribute it and/or modify
